@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
      src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fleonardocalesco.github.io%2F1" height="25"
      alt="website" /></a>
      
-
+  <samp>
             <p align="center">
         <a href="https://github.com/leonardocalesco/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocalesco&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
@@ -43,10 +43,11 @@ You can click the Preview link to take a look at your changes.
           alt="leonardocalesco :: Top Langs by commit" />
           </a>
         </p>
-        
+  
         <p align="center">
           <a href="https://github.com/leonardocalesco/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=leonardocalesco&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardocalesco&theme=gruvbox&hide_border=true" />
           </a>
        </p>
+         </samp>
