@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
   <samp>
             <p align="center">
         <a href="https://github.com/leonardocalesco/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocalesco&langs_count=6&theme=prussian&layout=compact&hide_border=true"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocalesco&langs_count=6&theme=flag-india&layout=compact&hide_border=true"
           alt="leonardocalesco :: overall Top Langs " /></a>
       </p>
         <p align="center">
