@@ -37,9 +37,9 @@ You can click the Preview link to take a look at your changes.
       </p>
         <p align="center">
           <a href="https://github.com/leonardocalesco/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardocalesco&theme=prussian&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardocalesco&theme=nord_bright&layout=compact&hide_border=true"
           alt="leonardocalesco :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leonardocalesco&theme=prussian&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leonardocalesco&theme=nord_bright&layout=compact&hide_border=true"
           alt="leonardocalesco :: Top Langs by commit" />
           </a>
         </p>
